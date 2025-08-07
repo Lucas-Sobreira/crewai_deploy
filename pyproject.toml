@@ -19,9 +19,9 @@
 # ============================
 
 [project]
-name = "projeto-uv"
+name = "relatorio_pesquisa"
 version = "0.1.0"
-description = "projeto-uv"
+description = "relatorio_pesquisa"
 readme = "README.md"
 license = "MIT"
 authors = [{ name = "Lucas Andrade", email = "msesobreira481@gmail.com" }]

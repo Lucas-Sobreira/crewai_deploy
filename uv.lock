@@ -1988,7 +1988,7 @@ wheels = [
 ]
 
 [[package]]
-name = "projeto-uv"
+name = "relatorio_pesquisa"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
